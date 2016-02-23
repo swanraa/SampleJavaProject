@@ -6,7 +6,7 @@ public class Sample {
 		
 	  System.out.println("Hi Iam in Tech M");
 	  System.out.println("Hi Iam in Tech M 1111111111");
-	  System.out.println("Hi Iam in Tech M 22222222222");
+	  System.out.println("Hi Iam in Tech MSample DEV");
 	  
 	}
 
